@@ -1,3 +1,5 @@
-# hello_World 
+### hello World, 
 
-## Welcome to the **DSC GECR**
+### Welcome to the **DSC GECR** session on: 
+
+# **git**  and **GitHub**
