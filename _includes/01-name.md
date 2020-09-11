@@ -1,1 +1,2 @@
-# DSC Government engineering college
+# Developer Students Club
+## Government Engineering College, Rajkot
